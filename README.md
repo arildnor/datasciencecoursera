@@ -1,2 +1,2 @@
 # datasciencecoursera
-To be used for Courcera Data Science
+To be used for Coursera Data Science Class
